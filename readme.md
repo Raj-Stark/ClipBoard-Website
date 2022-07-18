@@ -18,3 +18,4 @@ npm run watch
 
 ![Alt text](images/clipboard.png)
 ````
+Netlify Link : https://clipboardprojectraj.netlify.app/
